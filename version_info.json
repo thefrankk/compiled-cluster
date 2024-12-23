@@ -4,8 +4,8 @@
   "big_change": true,
   "minor_change": false,
   "size": "150MB",
-  "estimated_time_update": "15 minutes",
-  "require_app_update": true,
+  "estimated_time_update": "10 minutes",
+  "require_app_update": false,
   "update_notes": [
     "Improved application performance.",
     "Fixed critical bugs.",
