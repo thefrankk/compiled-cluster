@@ -7,7 +7,7 @@
   "estimated_time_update": "15 minutes",
   "require_app_update": true,
   "update_notes": [
-    "Improved application performance.",
+    "Improved application performance."
   ],
   "rauc_file_name": "update-v1.2.3.raucb"
 }
