@@ -8,9 +8,6 @@
   "require_app_update": true,
   "update_notes": [
     "Improved application performance.",
-    "Fixed critical bugs.",
-    "Updated user interface for better usability.",
-    "Added support for new file formats."
   ],
   "rauc_file_name": "update-v1.2.3.raucb"
 }
