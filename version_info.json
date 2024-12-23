@@ -8,7 +8,9 @@
   "require_app_update": true,
   "update_notes": [
     "Improved application performance.",
-    "Fixed critical bugs."
+    "Fixed critical bugs.",
+    "Improved application performance.",
+    "Improved application performance."
   ],
   "rauc_file_name": "update-v1.2.3.raucb"
 }
