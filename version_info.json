@@ -3,8 +3,8 @@
   "require_filesystem_update": true,
   "big_change": true,
   "minor_change": false,
-  "size": "150MB",
-  "estimated_time_update": "10 minutes",
+  "size": "490MB",
+  "estimated_time_update": "4 minutes",
   "require_app_update": false,
   "update_notes": [
     "Improved application performance.",
@@ -14,5 +14,5 @@
     "Fixed critical bugs.",
     "Fixed critical bugs."
   ],
-  "rauc_file_name": "update-v1.2.3.raucb"
+  "rauc_file_name": "bundle-update-v1.22.34.raucb"
 }
